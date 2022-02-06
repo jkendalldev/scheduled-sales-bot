@@ -1,1 +1,1 @@
-worker: node scheduled-job.js
+web: node scheduled-job.js
