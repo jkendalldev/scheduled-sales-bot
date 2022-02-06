@@ -1,5 +1,5 @@
 function sayHello() {
-    console.log('Hello');
+    console.log('Hello from scheduled-sales-bot!');
 }
 
 sayHello();
