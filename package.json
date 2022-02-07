@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/jkendalldev/scheduled-sales-bot/issues"
   },
-  "homepage": "https://github.com/jkendalldev/scheduled-sales-bot#readme"
+  "homepage": "https://github.com/jkendalldev/scheduled-sales-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ethers": "^5.3.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "twitter-api-v2": "1.9.1",
+    "dotenv": "16.0.0"
+  },
+  "engines": {
+    "node": "14.15.4"
+  }
 }
